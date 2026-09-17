@@ -1,5 +1,5 @@
 # Electronic-Circuits--Clapp-Oscillator
-## AIM:
+## AIM: 
 To simulate a Clapp Oscillator and to obtain the output.
 ## APPARATUS REQUIRED:
 PC with LT Spice software
